@@ -1,0 +1,61 @@
+monthYear,itemCode,category,itemPrice,monthlyQuantitySold,monthlyTotalSales
+2024/12,I001,Home Appliances,399.11,15,5986.65
+2024/12,I002,Home Appliances,406.01,5,2030.05
+2024/12,I003,Home Appliances,106.97,2,213.94
+2024/12,I004,Home Appliances,88.50,4,354.00
+2024/12,I005,Home Appliances,128.95,16,2063.20
+2024/12,I006,Home Appliances,483.81,6,2902.86
+2024/12,I007,Home Appliances,220.82,1,220.82
+2024/12,I008,Home Appliances,198.08,7,1386.56
+2024/12,I009,Home Appliances,468.74,2,937.48
+2024/12,I010,Home Appliances,290.12,3,870.36
+2024/12,I011,Home Appliances,337.92,5,1689.60
+2024/12,I012,Home Appliances,152.68,4,610.72
+2024/12,I013,Home Appliances,198.97,3,596.91
+2024/12,I014,Home Appliances,239.72,2,479.44
+2024/12,I015,Home Appliances,362.10,1,362.10
+2024/12,I016,Home Appliances,440.98,6,2645.88
+2024/12,I017,Home Appliances,112.47,4,449.88
+2024/12,I018,Home Appliances,307.66,5,1538.30
+2024/12,I019,Home Appliances,61.84,3,185.52
+2024/12,I020,Home Appliances,123.41,2,246.82
+2024/12,I021,Home Essentials,69.75,6,418.50
+2024/12,I022,Home Essentials,176.71,5,883.55
+2024/12,I023,Home Essentials,455.75,2,911.50
+2024/12,I024,Home Essentials,70.69,7,494.83
+2024/12,I025,Home Essentials,240.66,4,962.64
+2024/12,I026,Home Essentials,438.78,3,1316.34
+2024/12,I027,Home Essentials,459.25,2,918.50
+2024/12,I028,Home Essentials,375.75,4,1503.00
+2024/12,I029,Home Essentials,308.39,6,1850.34
+2024/12,I030,Home Essentials,191.90,3,575.70
+2024/12,I031,Home Essentials,444.83,2,889.66
+2024/12,I032,Home Essentials,103.73,5,518.65
+2024/12,I033,Home Essentials,105.95,4,423.80
+2024/12,I034,Home Essentials,144.61,3,433.83
+2024/12,I035,Home Essentials,497.94,6,2987.64
+2024/12,I036,Home Essentials,407.77,4,1631.08
+2024/12,I037,Home Essentials,150.38,5,751.90
+2024/12,I038,Home Essentials,483.80,2,967.60
+2024/12,I039,Home Essentials,335.44,3,1006.32
+2024/12,I040,Home Essentials,426.63,7,2986.41
+2024/12,I041,Electronics,447.13,2,894.26
+2024/12,I042,Electronics,388.07,5,1940.35
+2024/12,I043,Electronics,353.13,1,353.13
+2024/12,I044,Electronics,131.57,2,263.14
+2024/12,I045,Electronics,257.19,3,771.57
+2024/12,I046,Electronics,98.56,4,394.24
+2024/12,I047,Electronics,425.09,1,425.09
+2024/12,I048,Electronics,458.43,5,2292.15
+2024/12,I049,Electronics,364.67,6,2188.02
+2024/12,I050,Electronics,185.09,2,370.18
+2024/12,I051,Electronics,442.34,5,2211.70
+2024/12,I052,Electronics,397.69,4,1590.76
+2024/12,I053,Electronics,497.13,3,1491.39
+2024/12,I054,Electronics,106.08,5,530.40
+2024/12,I055,Electronics,130.82,6,784.92
+2024/12,I056,Electronics,171.99,3,515.97
+2024/12,I057,Electronics,105.76,4,423.04
+2024/12,I058,Electronics,106.35,5,531.75
+2024/12,I059,Electronics,390.31,7,2732.17
+2024/12,I060,Electronics,193.69,25,4842.25

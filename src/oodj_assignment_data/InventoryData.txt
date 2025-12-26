@@ -1,0 +1,61 @@
+itemCode,itemName,category,itemPrice,stock,minStockAllowed,stockUpdateDate,stockStatus,quantityReq,supplierID,supplierName
+I001,Hair Dryer,Home Appliances,399.11,8,10,5/10/2024,Understock,2,S001,Electro Supply
+I002,Microwave Oven,Home Appliances,406.01,48,11,2/12/2024,Sufficient,N/A,S002,Home Goods Co.
+I003,Refrigerator,Home Appliances,106.97,5,8,29/11/2024,Understock,3,S003,QuickTech Solutions
+I004,Washing Machine,Home Appliances,88.5,50,10,14/11/2024,Sufficient,N/A,S004,Modern Living Supplies
+I005,Vacuum Cleaner,Home Appliances,128.95,48,7,8/4/2024,Sufficient,N/A,S005,TechGiant Distribution
+I006,Electric Kettle,Home Appliances,483.81,32,5,26/1/2024,Sufficient,N/A,S006,FutureWare Electronics
+I007,Toaster,Home Appliances,220.82,9,15,30/7/2024,Understock,6,S007,SmartHome Inc.
+I008,Blender,Home Appliances,198.08,12,12,27/9/2024,Sufficient,N/A,S008,HomeMax Industries
+I009,Iron,Home Appliances,468.74,10,13,19/5/2024,Understock,3,S009,QuickBuy Ventures
+I010,Air Purifier,Home Appliances,290.12,44,14,26/7/2024,Sufficient,N/A,S010,Appliance World
+I011,Dishwasher,Home Appliances,337.92,29,7,9/12/2023,Sufficient,N/A,S011,TechBase Supplies
+I012,Coffee Maker,Home Appliances,152.68,5,10,22/5/2024,Understock,5,S012,Living Essentials Co.
+I013,Water Heater,Home Appliances,198.97,27,9,17/2/2024,Sufficient,N/A,S013,Better Living Ltd.
+I014,Food Processor,Home Appliances,239.72,4,10,4/5/2024,Understock,6,S014,PrimeTech Supplies
+I015,Rice Cooker,Home Appliances,362.1,17,6,17/11/2024,Sufficient,N/A,S015,GreenTech Traders
+I016,Fan,Home Appliances,440.98,46,6,18/3/2024,Sufficient,N/A,S016,Home Helper Co.
+I017,Air Conditioner,Home Appliances,112.47,21,15,26/10/2024,Sufficient,N/A,S017,ElectroWare Supplies
+I018,Juicer,Home Appliances,307.66,8,8,23/12/2023,Sufficient,N/A,S018,Future Homes Inc.
+I019,Oven Toaster,Home Appliances,61.84,13,13,25/7/2024,Sufficient,N/A,S019,QuickValue Distributors
+I020,Electric Grill,Home Appliances,123.41,33,6,5/11/2024,Sufficient,N/A,S020,Tech Mart Inc.
+I021,Pillow,Home Essentials,69.75,5,10,23/1/2024,Understock,5,S021,Elite Supply Co.
+I022,Blanket,Home Essentials,176.71,14,12,23/6/2024,Sufficient,N/A,S022,Luxury Homeware
+I023,Curtains,Home Essentials,455.75,21,7,8/8/2024,Sufficient,N/A,S023,QuickElectronics
+I024,Carpet,Home Essentials,70.69,23,5,12/7/2024,Sufficient,N/A,S024,Smart Home Traders
+I025,Mattress,Home Essentials,240.66,13,13,3/2/2024,Sufficient,N/A,S025,Global Goods Supplier
+I026,Towels,Home Essentials,438.78,10,5,24/11/2024,Sufficient,N/A,S006,FutureWare Electronics
+I027,Shower Curtain,Home Essentials,459.25,30,8,24/6/2024,Sufficient,N/A,S019,QuickValue Distributors
+I028,Laundry Basket,Home Essentials,375.75,36,12,8/3/2024,Sufficient,N/A,S022,Luxury Homeware
+I029,Storage Box,Home Essentials,308.39,10,15,31/3/2024,Understock,5,S017,ElectroWare Supplies
+I030,Chair,Home Essentials,191.9,47,10,15/9/2024,Sufficient,N/A,S004,Modern Living Supplies
+I031,Table,Home Essentials,444.83,18,5,26/12/2023,Sufficient,N/A,S014,PrimeTech Supplies
+I032,Wardrobe,Home Essentials,103.73,27,11,3/1/2024,Sufficient,N/A,S012,Living Essentials Co.
+I033,Bookshelf,Home Essentials,105.95,40,11,9/6/2024,Sufficient,N/A,S013,Better Living Ltd.
+I034,Desk Lamp,Home Essentials,144.61,43,5,4/4/2024,Sufficient,N/A,S010,Appliance World
+I035,Wall Clock,Home Essentials,497.94,35,7,13/4/2024,Sufficient,N/A,S025,Global Goods Supplier
+I036,Door Mat,Home Essentials,407.77,7,15,9/5/2024,Understock,8,S019,QuickValue Distributors
+I037,Broom,Home Essentials,150.38,18,11,11/9/2024,Sufficient,N/A,S021,Elite Supply Co.
+I038,Mop,Home Essentials,483.8,9,14,22/2/2024,Understock,5,S017,ElectroWare Supplies
+I039,Dustbin,Home Essentials,335.44,9,7,14/2/2024,Sufficient,N/A,S004,Modern Living Supplies
+I040,Clothes Rack,Home Essentials,426.63,31,13,4/6/2024,Sufficient,N/A,S011,TechBase Supplies
+I041,Smartphone,Electronics,447.13,7,10,30/7/2024,Understock,3,S006,FutureWare Electronics
+I042,Laptop,Electronics,388.07,34,12,27/4/2024,Sufficient,N/A,S007,SmartHome Inc.
+I043,Tablet,Electronics,353.13,10,7,26/10/2024,Sufficient,N/A,S022,Luxury Homeware
+I044,Smartwatch,Electronics,131.57,15,14,10/12/2023,Sufficient,N/A,S014,PrimeTech Supplies
+I045,Headphones,Electronics,257.19,30,13,10/4/2024,Sufficient,N/A,S017,ElectroWare Supplies
+I046,Bluetooth Speaker,Electronics,98.56,15,5,24/8/2024,Sufficient,N/A,S025,Global Goods Supplier
+I047,Gaming Console,Electronics,425.09,39,13,1/2/2024,Sufficient,N/A,S023,QuickElectronics
+I048,Monitor,Electronics,458.43,45,7,23/11/2024,Sufficient,N/A,S012,Living Essentials Co.
+I049,Printer,Electronics,364.67,49,9,25/9/2024,Sufficient,N/A,S019,QuickValue Distributors
+I050,External Hard Drive,Electronics,185.09,10,14,30/12/2023,Understock,4,S002,Home Goods Co.
+I051,USB Flash Drive,Electronics,442.34,26,11,14/8/2024,Sufficient,N/A,S016,Home Helper Co.
+I052,Camera,Electronics,397.69,21,7,4/3/2024,Sufficient,N/A,S015,GreenTech Traders
+I053,Tripod,Electronics,497.13,31,12,20/1/2024,Sufficient,N/A,S020,Tech Mart Inc.
+I054,Smart TV,Electronics,106.08,23,11,19/8/2024,Sufficient,N/A,S010,Appliance World
+I055,Streaming Device,Electronics,130.82,17,11,2/6/2024,Sufficient,N/A,S006,FutureWare Electronics
+I056,Power Bank,Electronics,171.99,45,14,28/10/2024,Sufficient,N/A,S004,Modern Living Supplies
+I057,Wireless Charger,Electronics,105.76,14,11,14/7/2024,Sufficient,N/A,S002,Home Goods Co.
+I058,Router,Electronics,106.35,33,6,26/1/2024,Sufficient,N/A,S022,Luxury Homeware
+I059,Drone,Electronics,390.31,17,11,27/7/2024,Sufficient,N/A,S005,TechGiant Distribution
+I060,VR Headset,Electronics,193.69,11,8,5/9/2024,Sufficient,N/A,S001,Electro Supply

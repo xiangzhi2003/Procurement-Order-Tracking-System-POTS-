@@ -1,0 +1,50 @@
+Item Code,Item Name,Category,Quantity,Date
+I001,Hair Dryer,Home Appliances,10,1/12/2024
+I002,Microwave Oven,Home Appliances,5,2/12/2024
+I003,Refrigerator,Home Appliances,6,3/12/2024
+I004,Washing Machine,Home Appliances,7,4/12/2024
+I005,Vacuum Cleaner,Home Appliances,3,5/12/2024
+I006,Electric Kettle,Home Appliances,1,5/12/2024
+I007,Toaster,Home Appliances,8,6/12/2024
+I008,Blender,Home Appliances,3,6/12/2024
+I009,Iron,Home Appliances,6,7/12/2024
+I010,Air Purifier,Home Appliances,15,7/12/2024
+I011,Dishwasher,Home Appliances,2,8/12/2024
+I012,Coffee Maker,Home Appliances,12,8/12/2024
+I013,Water Heater,Home Appliances,20,9/12/2024
+I014,Food Processor,Home Appliances,14,9/12/2024
+I015,Rice Cooker,Home Appliances,18,10/12/2024
+I016,Fan,Home Appliances,25,10/12/2024
+I017,Air Conditioner,Home Appliances,9,11/12/2024
+I018,Juicer,Home Appliances,7,11/12/2024
+I019,Oven Toaster,Home Appliances,30,12/12/2024
+I020,Electric Grill,Home Appliances,16,12/12/2024
+I021,Pillow,Home Essentials,6,13/12/2024
+I022,Blanket,Home Essentials,10,13/12/2024
+I023,Curtains,Home Essentials,13,14/12/2024
+I024,Carpet,Home Essentials,11,14/12/2024
+I025,Mattress,Home Essentials,5,15/12/2024
+I026,Towels,Home Essentials,4,15/12/2024
+I027,Shower Curtain,Home Essentials,8,16/12/2024
+I028,Laundry Basket,Home Essentials,20,16/12/2024
+I029,Storage Box,Home Essentials,9,17/12/2024
+I030,Chair,Home Essentials,25,17/12/2024
+I031,Table,Home Essentials,2,18/12/2024
+I032,Wardrobe,Home Essentials,3,18/12/2024
+I033,Bookshelf,Home Essentials,22,19/12/2024
+I034,Desk Lamp,Home Essentials,14,19/12/2024
+I035,Wall Clock,Home Essentials,3,20/12/2024
+I036,Door Mat,Home Essentials,21,20/12/2024
+I037,Broom,Home Essentials,1,21/12/2024
+I038,Mop,Home Essentials,7,21/12/2024
+I039,Dustbin,Home Essentials,15,22/12/2024
+I040,Clothes Rack,Home Essentials,6,22/12/2024
+I041,Smartphone,Electronics,12,23/12/2024
+I042,Laptop,Electronics,18,23/12/2024
+I043,Tablet,Electronics,4,24/12/2024
+I044,Smartwatch,Electronics,7,24/12/2024
+I045,Headphones,Electronics,3,25/12/2024
+I046,Bluetooth Speaker,Electronics,10,25/12/2024
+I047,Gaming Console,Electronics,7,26/12/2024
+I048,Monitor,Electronics,16,26/12/2024
+I049,kitty,Electronics,4,26/12/2024

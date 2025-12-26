@@ -1,0 +1,6 @@
+U001,sten,sten123,Administrator
+U002,gckho,gckho123,Inventory Manager
+U003,david,david123,Purchase Manager
+U004,cxz,cxz123,Finance Manager
+U005,raidah,raidah123,Sales Manager
+U006,rxp,rxp123,Administrator

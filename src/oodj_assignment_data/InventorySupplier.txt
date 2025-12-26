@@ -1,0 +1,26 @@
+supplierID,supplierName,paymentMethod,paymentDue
+S001,Electro Supply,Bank Transfer,2024-07-01
+S002,Home Goods Co.,Credit,2024-07-15
+S003,QuickTech Solutions,Cash,2024-07-20
+S004,Modern Living Supplies,Cheque,2024-08-01
+S005,TechGiant Distribution,Bank Transfer,2024-08-10
+S006,FutureWare Electronics,Credit,2024-08-15
+S007,SmartHome Inc.,Bank Transfer,2024-09-05
+S008,HomeMax Industries,Cheque,2024-09-10
+S009,QuickBuy Ventures,Credit,2024-09-15
+S010,Appliance World,Cash,2024-09-25
+S011,TechBase Supplies,Bank Transfer,2024-10-01
+S012,Living Essentials Co.,Cheque,2024-10-05
+S013,Better Living Ltd.,Credit,2024-10-10
+S014,PrimeTech Supplies,Bank Transfer,2024-10-15
+S015,GreenTech Traders,Credit,2024-10-20
+S016,Home Helper Co.,Cheque,2024-10-25
+S017,ElectroWare Supplies,Cash,2024-11-01
+S018,Future Homes Inc.,Credit,2024-11-05
+S019,QuickValue Distributors,Bank Transfer,2024-11-10
+S020,Tech Mart Inc.,Cheque,2024-11-15
+S021,Elite Supply Co.,Bank Transfer,2024-11-20
+S022,Luxury Homeware,Bank Transfer,2024-11-25
+S023,QuickElectronics,Credit,2024-12-05
+S024,Smart Home Traders,Cash,2024-12-10
+S025,Global Goods Supplier,Credit,2024-12-15
