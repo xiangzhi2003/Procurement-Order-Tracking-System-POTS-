@@ -353,7 +353,7 @@ This project is an academic assignment created for educational purposes.
 
 ## Contact
 
-**Developer**: Xiang Zhi
+**Developer**: Xiang Zhi , and my groupmates
 **GitHub**: [@xiangzhi2003](https://github.com/xiangzhi2003)
 **Repository**: [Procurement Order Tracking System](https://github.com/xiangzhi2003/Procurement-Order-Tracking-System-POTS-)
 
